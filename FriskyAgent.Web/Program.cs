@@ -1,11 +1,21 @@
 using FriskyAgent.Web.Components;
+using FriskyAgent.Bll.Services;
+using System.Net.Http.Headers;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-builder.Services.AddRazorComponents()
-    .AddInteractiveServerComponents();
+// Читаем ключ из конфигов / user-secrets
+var openAiKey = builder.Configuration["OpenAI:ApiKey"]
+                ?? throw new InvalidOperationException("OpenAI:ApiKey не задан");
 
+// Регистрируем сервис и сразу настраиваем HttpClient
+builder.Services
+    .AddHttpClient<IOpenAiService, OpenAiService>(client =>
+    {
+        client.BaseAddress = new Uri("https://api.openai.com/");
+        client.DefaultRequestHeaders.Authorization =
+            new AuthenticationHeaderValue("Bearer", openAiKey);
+    });
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
