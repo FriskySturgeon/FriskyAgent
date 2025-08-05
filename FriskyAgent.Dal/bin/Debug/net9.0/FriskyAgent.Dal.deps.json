@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FriskyAgent.Dal/1.0.0": {
+        "dependencies": {
+          "FriskyAgent.Core": "1.0.0"
+        },
+        "runtime": {
+          "FriskyAgent.Dal.dll": {}
+        }
+      },
+      "FriskyAgent.Core/1.0.0": {
+        "runtime": {
+          "FriskyAgent.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FriskyAgent.Dal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FriskyAgent.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

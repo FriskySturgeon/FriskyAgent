@@ -1,0 +1,11 @@
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Core/bin/Debug/net9.0/FriskyAgent.Core.deps.json
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Core/bin/Debug/net9.0/FriskyAgent.Core.dll
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Core/bin/Debug/net9.0/FriskyAgent.Core.pdb
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Core/obj/Debug/net9.0/FriskyAgent.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Core/obj/Debug/net9.0/FriskyAgent.Core.AssemblyInfoInputs.cache
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Core/obj/Debug/net9.0/FriskyAgent.Core.AssemblyInfo.cs
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Core/obj/Debug/net9.0/FriskyAgent.Core.csproj.CoreCompileInputs.cache
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Core/obj/Debug/net9.0/FriskyAgent.Core.dll
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Core/obj/Debug/net9.0/refint/FriskyAgent.Core.dll
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Core/obj/Debug/net9.0/FriskyAgent.Core.pdb
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Core/obj/Debug/net9.0/ref/FriskyAgent.Core.dll

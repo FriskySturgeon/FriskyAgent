@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FriskyAgent.Web/1.0.0": {
+        "dependencies": {
+          "FriskyAgent.Bll": "1.0.0",
+          "FriskyAgent.Core": "1.0.0"
+        },
+        "runtime": {
+          "FriskyAgent.Web.dll": {}
+        }
+      },
+      "FriskyAgent.Bll/1.0.0": {
+        "dependencies": {
+          "FriskyAgent.Core": "1.0.0"
+        },
+        "runtime": {
+          "FriskyAgent.Bll.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FriskyAgent.Core/1.0.0": {
+        "runtime": {
+          "FriskyAgent.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FriskyAgent.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FriskyAgent.Bll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FriskyAgent.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

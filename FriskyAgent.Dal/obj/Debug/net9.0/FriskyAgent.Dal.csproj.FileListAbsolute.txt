@@ -1,0 +1,15 @@
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Dal/bin/Debug/net9.0/FriskyAgent.Dal.deps.json
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Dal/bin/Debug/net9.0/FriskyAgent.Dal.dll
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Dal/bin/Debug/net9.0/FriskyAgent.Dal.pdb
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Dal/bin/Debug/net9.0/FriskyAgent.Core.dll
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Dal/bin/Debug/net9.0/FriskyAgent.Core.pdb
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Dal/obj/Debug/net9.0/FriskyAgent.Dal.csproj.AssemblyReference.cache
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Dal/obj/Debug/net9.0/FriskyAgent.Dal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Dal/obj/Debug/net9.0/FriskyAgent.Dal.AssemblyInfoInputs.cache
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Dal/obj/Debug/net9.0/FriskyAgent.Dal.AssemblyInfo.cs
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Dal/obj/Debug/net9.0/FriskyAgent.Dal.csproj.CoreCompileInputs.cache
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Dal/obj/Debug/net9.0/FriskyAg.E6581A97.Up2Date
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Dal/obj/Debug/net9.0/FriskyAgent.Dal.dll
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Dal/obj/Debug/net9.0/refint/FriskyAgent.Dal.dll
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Dal/obj/Debug/net9.0/FriskyAgent.Dal.pdb
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Dal/obj/Debug/net9.0/ref/FriskyAgent.Dal.dll

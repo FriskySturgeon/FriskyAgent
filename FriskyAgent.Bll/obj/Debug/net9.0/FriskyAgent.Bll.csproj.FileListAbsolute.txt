@@ -1,0 +1,15 @@
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Bll/bin/Debug/net9.0/FriskyAgent.Bll.deps.json
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Bll/bin/Debug/net9.0/FriskyAgent.Bll.dll
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Bll/bin/Debug/net9.0/FriskyAgent.Bll.pdb
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Bll/bin/Debug/net9.0/FriskyAgent.Core.dll
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Bll/bin/Debug/net9.0/FriskyAgent.Core.pdb
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Bll/obj/Debug/net9.0/FriskyAgent.Bll.csproj.AssemblyReference.cache
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Bll/obj/Debug/net9.0/FriskyAgent.Bll.GeneratedMSBuildEditorConfig.editorconfig
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Bll/obj/Debug/net9.0/FriskyAgent.Bll.AssemblyInfoInputs.cache
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Bll/obj/Debug/net9.0/FriskyAgent.Bll.AssemblyInfo.cs
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Bll/obj/Debug/net9.0/FriskyAgent.Bll.csproj.CoreCompileInputs.cache
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Bll/obj/Debug/net9.0/FriskyAg.1941221D.Up2Date
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Bll/obj/Debug/net9.0/FriskyAgent.Bll.dll
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Bll/obj/Debug/net9.0/refint/FriskyAgent.Bll.dll
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Bll/obj/Debug/net9.0/FriskyAgent.Bll.pdb
+/Users/n.tuslov/FriskyAgent/FriskyAgent.Bll/obj/Debug/net9.0/ref/FriskyAgent.Bll.dll
